@@ -5,6 +5,8 @@ the value of this Discord bot is 75$ no hidden or extra costs at all
 
 ![discord](https://github.com/daredevilkinng/Discord-Bot-All-in-1/assets/69708198/3f15f39d-61b2-4440-865a-96e2211d7062)
 
+<h3 align="center">Bot price is 75$ ping me :- https://t.me/daredevilkinng</h3>
+
 # BSC wallet : 0x5ec1fe30541fa3f1f804fe40fd81323e26f380ba
 # USDT TRC20 : TKWa7pvPMKB6PxM3mbCy2vB4w4gD4Yr7Md
 # BTC : 1AfXWH8KEKgA4nb92gVj5HtFzPA74gHbPb
