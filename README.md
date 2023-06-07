@@ -7,7 +7,7 @@ the value of this Discord bot is 75$ no hidden or extra costs at all
 
 <h3 align="center">Bot price is 75$ ping me :- https://t.me/daredevilkinng</h3>
 
-# BSC wallet : 0x5ec1fe30541fa3f1f804fe40fd81323e26f380ba
+# BSC wallet : 0x9c8a64ec8101af7f2a322f846b119718ae0de600
 # USDT TRC20 : TKWa7pvPMKB6PxM3mbCy2vB4w4gD4Yr7Md
 # BTC : 1AfXWH8KEKgA4nb92gVj5HtFzPA74gHbPb
 
